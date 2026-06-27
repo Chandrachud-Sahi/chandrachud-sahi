@@ -20,6 +20,12 @@ Google Search Console · Git / GitHub
 
 ---
 
+## 🎯 Target Roles
+
+Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst · Data Science Analyst
+
+---
+
 ## 📋 Professional Timeline
 
 **July 2022**
@@ -63,12 +69,6 @@ Google Search Console · Git / GitHub
 - Fully committed to **self-directed learning and independent project development**, applying everything accumulated over four years of preparation, corporate experience, and training
 - Building advanced proficiency across SQL, Python, and data visualization tools
 - Actively working on real-world analytical problems and portfolio projects that reflect applied skills across data analysis, business intelligence, and storytelling with data
-
----
-
-## 🎯 Target Roles
-
-Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst · Data Science Analyst
 
 ---
 
