@@ -22,7 +22,7 @@ Google Search Console · Git / GitHub
 
 ## 🎯 Target Roles
 
-Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst · Data Science Analyst
+Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst 
 
 ---
 
