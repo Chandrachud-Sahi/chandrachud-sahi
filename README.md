@@ -26,7 +26,7 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ---
 
-## 📋 Career & Academic Journey
+## 📋 Timeline
 
 **July 2022**
 - Graduated from PSIT, Kanpur with B.Tech in Computer Science & Engineering — First Division with Distinction, **8.29 CGPA**
