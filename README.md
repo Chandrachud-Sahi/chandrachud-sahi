@@ -38,6 +38,7 @@ Google Search Console · Git / GitHub
 - This was a deliberate move to build technical depth alongside MBA preparation — ensuring that any analytics program I entered, I'd arrive with hands-on technical foundations
 
 **April 2024**
+- Successfully completed the **Sharpener Backend Web Development Bootcamp** with a certificate, wrapping up a focused period of technical skill-building in databases, APIs, and backend data systems
 - Joined **Chegg India as a Paid Apprentice Trainee** for a 1-year engagement — gaining real-world corporate exposure while continuing CAT preparation
 - Worked across SEO, data-driven content decision-making, competitor analysis, keyword gap analysis, content quality audits, cross-functional team collaboration, and professional business communication
 - This role added tangible industry experience and reinforced the value of data in driving business decisions
