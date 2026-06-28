@@ -3,6 +3,11 @@
 **Aspiring Data Analyst** · Computer Science Graduate · Varanasi, India
 
 ---
+## 🙋‍♂️ About Me
+
+Computer Science graduate with a deliberate pursuit of analytics — through corporate experience, structured programs, and self-directed learning. I bring a rare combination of technical depth, business exposure, and an obsessive drive to find meaning in data. 
+
+---
 
 ## 🛠️ Skills
 
