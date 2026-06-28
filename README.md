@@ -30,9 +30,10 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 | Platform | Link |
 |----------|------|
-| 💻 HackerRank | [hackerrank.com/chandrachudsahi](https://hackerrank.com/chandrachudsahi) |
-| ✍️ Medium | [medium.com/@chandrachudsahi](https://medium.com/@chandrachudsahi) |
-| 📊 Kaggle | [kaggle.com/chandrachudsahi](https://kaggle.com/chandrachudsahi) |
+| Portfolio | [chandrachud-analytics-portfolio.netlify.app](https://chandrachud-analytics-portfolio.netlify.app/) |
+| HackerRank | [hackerrank.com/chandrachudsahi](https://hackerrank.com/chandrachudsahi) |
+| Medium | [medium.com/@chandrachudsahi](https://medium.com/@chandrachudsahi) |
+| Kaggle | [kaggle.com/chandrachudsahi](https://kaggle.com/chandrachudsahi) |
 
 ---
 
