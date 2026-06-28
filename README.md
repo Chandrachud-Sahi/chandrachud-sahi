@@ -1,6 +1,6 @@
 # Hi, I'm Chandrachud Sahi 👋
 
-**Aspiring Data Analyst** · Computer Science Graduate · Varanasi, India
+**Data Analyst** · Computer Science Graduate · Varanasi, India
 
 ---
 ## 🙋‍♂️ About Me
