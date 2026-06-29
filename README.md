@@ -15,13 +15,16 @@ Computer Science graduate with a deliberate pursuit of analytics — through cor
 SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
 
 **Data Visualization & BI:**
-Google Looker Studio · Microsoft Excel (Advanced)
+Google Looker Studio · Microsoft Excel · Power BI
 
 **Data Analysis:**
 Exploratory Data Analysis (EDA) · Data Wrangling · Web Analytics · Statistical Analysis
 
 **Tools & Platforms:**
-Google Search Console · Git / GitHub
+Google Search Console · Git / GitHub · Jupyter Notebook
+
+**Generative AI Tools:**
+Claude (Anthropic) · ChatGPT (OpenAI)
 
 ---
 
