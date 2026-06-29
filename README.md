@@ -18,7 +18,7 @@ SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
 Google Looker Studio · Microsoft Excel · Power BI
 
 **Data Analysis:**
-Exploratory Data Analysis (EDA) · Data Wrangling · Web Analytics · Statistical Analysis
+Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Analysis
 
 **Tools & Platforms:**
 Google Search Console · Git / GitHub · Jupyter Notebook
@@ -47,4 +47,4 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ## 📬 Let's Connect
 
-📧 chandrachudsahi@gamil.com
+chandrachudsahi@gamil.com
