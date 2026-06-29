@@ -3,13 +3,13 @@
 **Data Analyst** · Computer Science Graduate · Varanasi, India
 
 ---
-## 🙋‍♂️ About Me
+## About Me
 
 Computer Science graduate with a deliberate pursuit of analytics — through corporate experience, structured programs, and self-directed learning. I bring a rare combination of technical depth, business exposure, and an obsessive drive to find meaning in data. 
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 **Programming & Databases:**
 SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
@@ -28,13 +28,13 @@ Claude (Anthropic) · ChatGPT (OpenAI)
 
 ---
 
-## 🎯 Target Roles
+## Open To Roles
 
 Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst 
 
 ---
 
-## 🔗 My Profiles
+## My Profiles
 
 | Platform | Link |
 |----------|------|
@@ -45,6 +45,6 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 chandrachudsahi@gamil.com
