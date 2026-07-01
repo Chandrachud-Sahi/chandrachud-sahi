@@ -1,43 +1,80 @@
-# Hi, I'm Chandrachud Sahi 👋
+<div align="center">
 
-**Data Analyst** · Data-Driven Problem Solver · Varanasi, India
+# Chandrachud Sahi
+
+### Data Analyst · Data-Driven Problem Solver
+
+**Varanasi, India**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://chandrachud-analytics-portfolio.netlify.app/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/chandrachudsahi)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chandrachudsahi)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/chandrachudsahi)
+
+</div>
+
+<br>
 
 ---
+
 ## About Me
 
-Computer Science graduate with a deliberate pursuit of analytics — through corporate experience, structured programs, and self-directed learning. I bring a rare combination of technical depth, business exposure, and an obsessive drive to find meaning in data. 
+Computer Science graduate with a deliberate pursuit of analytics — built through corporate experience, structured programs, and self-directed learning. I bring a combination of technical depth, business exposure, and a genuine drive to find meaning in data.
 
 ---
 
 ## Skills
 
-**Programming & Databases:**
-SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
+<table>
+<tr>
+<td valign="top" width="50%">
 
-**Data Visualization & BI:**
-Google Looker Studio · Microsoft Excel · Power BI
+**Programming & Databases**
+- SQL — MySQL, PostgreSQL
+- Python — Pandas, NumPy
 
-**Data Analysis:**
-Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Analysis
+**Data Analysis**
+- Exploratory Data Analysis
+- Data Wrangling
+- Web Analytics
+- Statistical Analysis
 
-**Tools & Platforms:**
-Google Search Console · Git / GitHub · Jupyter Notebook
+</td>
+<td valign="top" width="50%">
 
-**Generative AI Tools:**
+**Visualization & BI**
+- Google Looker Studio
+- Microsoft Excel
+- Power BI
+
+**Tools & Platforms**
+- Google Search Console
+- Git / GitHub
+- Jupyter Notebook
+
+</td>
+</tr>
+</table>
+
+**Generative AI Tools**
 Claude (Anthropic) · ChatGPT (OpenAI)
 
 ---
 
 ## Open To Roles
 
-Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst 
+<div align="center">
+
+`Data Analyst`&nbsp;&nbsp;`Business Analyst`&nbsp;&nbsp;`Marketing Analyst`&nbsp;&nbsp;`Product Analyst`&nbsp;&nbsp;`Operations Analyst`&nbsp;&nbsp;`Research Analyst`
+
+</div>
 
 ---
 
-## My Profiles
+## Profiles
 
 | Platform | Link |
-|----------|------|
+|---|---|
 | Portfolio | [chandrachud-analytics-portfolio.netlify.app](https://chandrachud-analytics-portfolio.netlify.app/) |
 | HackerRank | [hackerrank.com/chandrachudsahi](https://hackerrank.com/chandrachudsahi) |
 | Medium | [medium.com/@chandrachudsahi](https://medium.com/@chandrachudsahi) |
@@ -47,4 +84,8 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ## Let's Connect
 
-chandrachudsahi@gamil.com
+<div align="center">
+
+**chandrachudsahi@gamil.com**
+
+</div>
