@@ -40,13 +40,6 @@ Claude (Anthropic) · ChatGPT (OpenAI)
 
 Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst
 
-## Profiles
-
-Portfolio — chandrachud-analytics-portfolio.netlify.app
-HackerRank — hackerrank.com/chandrachudsahi
-Medium — medium.com/@chandrachudsahi
-Kaggle — kaggle.com/chandrachudsahi
-
 ## Let's Connect
 
 chandrachudsahi@gamil.com
