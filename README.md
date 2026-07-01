@@ -21,6 +21,8 @@ Computer Science graduate with a deliberate pursuit of analytics — built throu
 
 ## Skills
 
+Over the course of my analytics journey, I have built a practical, well-rounded toolkit spanning data extraction, cleaning, analysis, and visualization. Rather than treating tools as isolated skills, I have focused on understanding how they fit together in a real analytics workflow — from querying and shaping raw data to communicating insights through dashboards and reports. Below is a breakdown of what I work with regularly.
+
 **Programming & Databases**
 SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
 
@@ -37,6 +39,8 @@ Google Search Console · Git / GitHub · Jupyter Notebook
 Claude (Anthropic) · ChatGPT (OpenAI)
 
 ## Open To Roles
+
+I am actively looking for opportunities where I can apply analytical thinking to solve real business problems, whether that means uncovering trends in data, supporting strategic decisions, or improving how a team measures and understands performance. I am open to roles across different domains, since I believe the core skill of asking the right questions of data translates well across functions. I am particularly interested in the following roles:
 
 Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst
 
