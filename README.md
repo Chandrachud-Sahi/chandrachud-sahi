@@ -29,7 +29,7 @@ Computer Science graduate with a deliberate pursuit of analytics — built throu
 Over the course of my analytics journey, I have built a practical, well-rounded toolkit spanning data extraction, cleaning, analysis, and visualization. Rather than treating tools as isolated skills, I have focused on understanding how they fit together in a real analytics workflow — from querying and shaping raw data to communicating insights through dashboards and reports. Below is a breakdown of what I work with regularly.
 
 **Programming & Databases**
-SQL (MySQL, SQLite, PostgreSQL) · Python (Pandas, NumPy)
+SQL (MySQL, SQLite, PostgreSQL) · Python (Pandas, NumPy, Seaborn)
 
 **Visualization & Business Intelligence**
 Microsoft Excel · Google Looker Studio · Power BI
