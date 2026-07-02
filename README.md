@@ -38,10 +38,7 @@ Microsoft Excel · Google Looker Studio · Power BI
 Data Wrangling · Exploratory Data Analysis · Statistical Analysis · Data Storytelling
 
 **Tools & Platforms**
-DBeaver · GitHub · Git · Jupyter Notebook
-
-**AI Productivity Tools**
-Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google)
+DBeaver · GitHub · Git · Jupyter Notebook · Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google)
 
 <div align="center">
 
