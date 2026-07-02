@@ -29,7 +29,7 @@ Computer Science graduate with a deliberate pursuit of analytics — built throu
 Over the course of my analytics journey, I have built a practical, well-rounded toolkit spanning data extraction, cleaning, analysis, and visualization. Rather than treating tools as isolated skills, I have focused on understanding how they fit together in a real analytics workflow — from querying and shaping raw data to communicating insights through dashboards and reports. Below is a breakdown of what I work with regularly.
 
 **Programming & Databases**
-SQL (MySQL, PostgreSQL) · Python (Pandas, NumPy)
+SQL (MySQL, SQLite, PostgreSQL) · Python (Pandas, NumPy)
 
 **Visualization & Business Intelligence**
 Google Looker Studio · Microsoft Excel · Power BI
@@ -38,7 +38,7 @@ Google Looker Studio · Microsoft Excel · Power BI
 Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Analysis
 
 **Tools & Platforms**
-Google Search Console · Git / GitHub · Jupyter Notebook
+Dbeaver · Git / GitHub · Jupyter Notebook
 
 **Generative AI Tools**
 Claude (Anthropic) · ChatGPT (OpenAI)
