@@ -91,7 +91,7 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ## Let's Connect
 
-<p align="center">chandrachudsahi@gmail.com</p>
+[chandrachudsahi@gmail.com](mailto:chandrachudsahi@gmail.com)
 
 </div>
 
