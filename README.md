@@ -41,7 +41,7 @@ Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Anal
 Dbeaver · Git · GitHub · Jupyter Notebook
 
 **AI Productivity Tools**
-Claude (Anthropic) · ChatGPT (OpenAI)· Gemini (Google)
+Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google)
 
 <div align="center">
 
