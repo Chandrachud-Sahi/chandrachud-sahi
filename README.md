@@ -12,10 +12,6 @@
 </div>
 <br>
 
-<table>
-<tr>
-<td>
-
 <div align="center">
 
 ## About Me
@@ -23,16 +19,6 @@
 </div>
 
 Computer Science graduate with a deliberate pursuit of analytics — built through corporate experience, structured programs, and self-directed learning. I bring a combination of technical depth, business exposure, and a genuine drive to find meaning in data.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td>
 
 <div align="center">
 
@@ -57,16 +43,6 @@ Google Search Console · Git / GitHub · Jupyter Notebook
 **Generative AI Tools**
 Claude (Anthropic) · ChatGPT (OpenAI)
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td>
-
 <div align="center">
 
 ## Open To Roles
@@ -77,16 +53,6 @@ I am actively looking for opportunities where I can apply analytical thinking to
 
 Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst
 
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td>
-
 <div align="center">
 
 ## Let's Connect
@@ -96,7 +62,3 @@ I'm always open to conversations around data, analytics, and new opportunities. 
 [chandrachudsahi@gmail.com](mailto:chandrachudsahi@gmail.com)
 
 </div>
-
-</td>
-</tr>
-</table>
