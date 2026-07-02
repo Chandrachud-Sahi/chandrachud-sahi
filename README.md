@@ -91,6 +91,8 @@ Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Oper
 
 ## Let's Connect
 
+I'm always open to conversations around data, analytics, and new opportunities. Feel free to reach out — I'd love to hear from you.
+
 [chandrachudsahi@gmail.com](mailto:chandrachudsahi@gmail.com)
 
 </div>
