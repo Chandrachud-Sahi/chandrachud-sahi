@@ -49,7 +49,7 @@ Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google)
 
 </div>
 
-I am excited by opportunities to apply analytical thinking to solve real business problems, whether that means uncovering trends in data, supporting strategic decisions, or improving how a team measures and understands performance. I am open to roles across different domains, since I believe the core skill of asking the right questions of data translates well across functions. I am particularly interested in the following roles:
+I am excited by opportunities to apply analytical thinking to solve real business problems — whether that means uncovering trends in data, supporting strategic decisions, or improving how teams measure and understand performance. I am open to roles across different domains, because I believe the core skill of asking the right questions of data translates well across functions. I am particularly interested in the following roles:
 
 Data Analyst · Business Analyst · Marketing Analyst · Product Analyst · Operations Analyst · Research Analyst
 
