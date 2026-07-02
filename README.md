@@ -32,13 +32,13 @@ Over the course of my analytics journey, I have built a practical, well-rounded 
 SQL (MySQL, SQLite, PostgreSQL) · Python (Pandas, NumPy)
 
 **Visualization & Business Intelligence**
-Google Looker Studio · Microsoft Excel · Power BI
+Microsoft Excel · Google Looker Studio · Power BI
 
 **Data Analysis**
-Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Analysis
+Data Wrangling · Exploratory Data Analysis · Statistical Analysis · Data Storytelling
 
 **Tools & Platforms**
-DBeaver · Git · GitHub · Jupyter Notebook
+DBeaver · GitHub · Git · Jupyter Notebook
 
 **AI Productivity Tools**
 Claude (Anthropic) · ChatGPT (OpenAI) · Gemini (Google)
