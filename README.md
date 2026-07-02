@@ -38,7 +38,7 @@ Google Looker Studio · Microsoft Excel · Power BI
 Exploratory Data Analysis · Data Wrangling · Web Analytics · Statistical Analysis
 
 **Tools & Platforms**
-Dbeaver · Git / GitHub · Jupyter Notebook
+Dbeaver · Git · GitHub · Jupyter Notebook
 
 **Generative AI Tools**
 Claude (Anthropic) · ChatGPT (OpenAI)
